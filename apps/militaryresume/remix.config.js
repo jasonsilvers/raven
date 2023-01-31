@@ -9,5 +9,6 @@ module.exports = {
   // publicPath: "/build/",
   watchPaths: ['../../libs'],
   server: process.env.NODE_ENV === 'development' ? undefined : './server.js',
-  serverBuildTarget: 'vercel',
+  // serverBuildTarget: 'vercel',
+  serverBuildDirectory: 'build',
 };
