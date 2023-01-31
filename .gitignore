@@ -41,4 +41,9 @@ Thumbs.db
 # Remix files
 apps/**/build
 apps/**/.cache
+apps/**/api/index.js
+apps/**/api/index.js.map
+apps/**/api/_assets
+apps/**/build
+apps/**/public/build
   
